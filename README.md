@@ -1,10 +1,10 @@
 # Hackintosh-OptiPlex-7070-MFF-intel
 
->>> based on https://github.com/webleon/Hackintosh-OptiPlex-7070-MFF
+> based on https://github.com/webleon/Hackintosh-OptiPlex-7070-MFF
 
-![](https://raw.githubusercontent.com/ningning21/Hackintosh-Dell-OptiPlex-7070-MFF/main/Images/big sur.png)
+![](https://raw.githubusercontent.com/ningning21/Hackintosh-Dell-OptiPlex-7070-MFF/main/Images/big-sur.png)
 
-**Opencore Bootloader 0.7.4. Tested on Big sur 11.x and Monterey 12.0.1 , but bluetooth is not work
+**Opencore Bootloader 0.7.4. opencore configurator 2.51.00. Tested on Big sur 11.x and Monterey 12.0.1 , but bluetooth is not work
 
 
 ## Introdution
@@ -35,7 +35,7 @@ You will have to [**generate a new SMIBIOS**](https://github.com/corpnewt/GenSMB
 
 ## Not working
 * Airdrop & Airplay
-
+* bluetooth (on Monterey)
 
 ## BIOS Settings
 * General → Advanced Boot Options: ***uncheck***
